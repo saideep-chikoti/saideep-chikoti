@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saideep-chikoti
-- 👀 I’m interested in DATA SCIENCE 
-- 🌱 I’m currently learning DATA SCIENCE 
-- 💞️ I’m looking to collaborate on DATA SCIENCE
+- 👀 I’m interested in Analytics
+- 🌱 I’m currently learning Business Analytics 
+- 💞️ I’m looking to collaborate on business Analytics project.
 - 📫 You can reach me at chikotisaideep04@gmail.com 
 
 <!---
