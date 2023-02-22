@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saideep-chikoti
 - 👀 I’m interested in Analytics
-- 🌱 I’m currently learning Business Analytics 
-- 💞️ I’m looking to collaborate on business Analytics project.
+- 🌱 I’m currently learning Data Analytics 
+- 💞️ I’m looking to collaborate on Data Analytics project.
 - 📫 You can reach me at chikotisaideep04@gmail.com 
 
 <!---
